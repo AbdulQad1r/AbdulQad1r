@@ -1,10 +1,10 @@
 👋 Hi, I’m @AbdulQad1r
 
-👀 I’m interested in Artificial Intelligence and Machine Learning.
+👀 I work in Artificial Intelligence and Machine Learning.
 
-🌱 I’m currently learning machine learning, deep learning, Python, and data analysis.
+🧠 I build and improve machine learning models using Python and common ML frameworks.
 
-💞️ I’m looking to collaborate on ML models, data-driven applications, and AI-based projects.
+💞️ I collaborate on AI-based applications, data-driven solutions, and model integration into real systems.
 
 📫 I can be reached through email or LinkedIn.
 
