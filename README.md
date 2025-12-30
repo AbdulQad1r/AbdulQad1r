@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbdulQad1r
-- 👀 I’m interested in Blockchain Technology.
-- 🌱 I’m currently learning blockchain, ethereum, solidity, and smart contracts.
-- 💞️ I’m looking to collaborate on developing ERC20, ERC721, ERC1155 NFT Tokens, Smart Contract and DAPPs.
-- 📫 I can be reached through email or linkedin. 
+👋 Hi, I’m @AbdulQad1r
+👀 I’m interested in Artificial Intelligence and Machine Learning.
+🌱 I’m currently learning machine learning, deep learning, Python, and data analysis.
+💞️ I’m looking to collaborate on ML models, data-driven applications, and AI-based projects.
+📫 I can be reached through email or LinkedIn.
 
 <!---
 AbdulQad1r/AbdulQad1r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
